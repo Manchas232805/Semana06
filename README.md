@@ -1,1 +1,1 @@
-# Semana06
+# Semana06 (Ejercicios usando while)
